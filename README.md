@@ -1,6 +1,6 @@
 # Magick ico maker
 
-圖形化 ImageMagick，專門處理圖片轉 `.ico` 檔的工具
+圖形化 ImageMagick，專門處理圖片轉 `.ico` 檔的工具  
 執行 magick-ico-maker.ahk
 
 ### 使用方式
